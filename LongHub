@@ -536,7 +536,7 @@ local Hub1 = Instance.new("TextLabel")
 	BindButton.Position = UDim2.new(0.865561002, 0, 0, 0)
 	BindButton.Size = UDim2.new(0, 100, 0, 27)
 	BindButton.Font = Enum.Font.Code
-	BindButton.Text = "[Pupsiki]"
+	BindButton.Text = "[Face]"
 	BindButton.TextColor3 = Color3.fromRGB(51,255,255)
 	BindButton.TextSize = 14.000
 	BindButton.Visible = true
@@ -2950,8 +2950,8 @@ local Stats = Library:Tab("Stats","rbxassetid://7040410130")
     local Misc = Library:Tab("Misc","rbxassetid://6034509993")
     --------------------------------------------------------------------
 Setting:Seperator("「 Credits 」")
-    Setting:Label("Made By GoOoTiE#1331 ")
-    Setting:Label("Ui Remade By Hatori.")
+    Setting:Label("Made By Face ")
+    Setting:Label("Ui Remade By Face.")
      
      Setting:Label("Join My discord For More Info!")
      
@@ -3427,7 +3427,7 @@ end)
         end
     end)
     
-Update:Notification("Hello, "  ..game.Players.LocalPlayer.DisplayName.. " Welcome LongHub V2! What's new? | [+] New Ui [+] New Functions [+] Fix Some Bugs [+] Optimise Script [+] Much More... ")
+Update:Notification("Hello, "  ..game.Players.LocalPlayer.DisplayName.. " Welcome LongHub V1! What's new? | [+] New Ui [+] New Functions [+] Fix Some Bugs [+] Optimise Script [+] Much More... ")
     
     Main:Seperator("「 Main")
    
