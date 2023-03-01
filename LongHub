@@ -1827,7 +1827,7 @@ end
 	return uitab
 end
  --------------------------------------------------------------------
- local Library = Update:Window("LOLI");
+ local Library = Update:Window("Long");
  --------------------------------------------------------------------
      if game.PlaceId == 2753915549 then
         World1 = true
@@ -2936,7 +2936,7 @@ end
     end)
     
     --------------------------------------------------------------------
-    local Library = Update:Window("LOLI");
+    local Library = Update:Window("Long");
     --------------------------------------------------------------------
     local Main = Library:Tab("Main","rbxassetid://6026568198")
 local Setting = Library:Tab("Settings","rbxassetid://6034509993")
